@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-I’m Gurbachan, a senior full-stack data analyst, creative coder and designer who specializes in front-end development, docker containers for backend development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Gurbachan, a senior full-stack data analyst, creative coder and designer who specializes in front-end development and docker containers for backend development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 Want to know more about me?
 
