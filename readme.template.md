@@ -119,4 +119,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 Check back at the top of the hour for a new quote!
 
 <br>
-Check back at the top of the hour for a new quote!
+
