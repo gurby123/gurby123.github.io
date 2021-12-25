@@ -10,29 +10,34 @@ I’m Gurbachan, a senior full-stack data analyst, creative coder and designer w
 
 Want to know more about me?
 
-## Latest Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END --> 
 
 ## Pinned Repositories
 <br>
+# Data Science
+<a href="https://data2int.com">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=data2int.com&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
+# Web App
 <a href="https://github.com/gurby123/AppBootStrap">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=AppBootStrap&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
 
 <a href="https://github.com/gurby123/socialbank">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=socialbank&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://data2int.com">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=data2int.com&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+# CICD
+<br>
+# Docker
 
+<br>
+
+## Latest Blog Post
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END --> 
 ## &#x1f4c8; GitHub Stats
 
 
