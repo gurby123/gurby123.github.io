@@ -11,14 +11,14 @@ I’m Gurbachan, a senior full-stack data analyst, creative coder and designer w
 Want to know more about me?
 
 
-## Pinned Repositories
+# Pinned Repositories
 <br>
-# Data Science
+## Data Science
 <a href="https://data2int.com">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=data2int.com&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-# Web App
+## Web App
 <a href="https://github.com/gurby123/AppBootStrap">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=AppBootStrap&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -27,9 +27,11 @@ Want to know more about me?
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=socialbank&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-# CICD
+## CICD
 
-# Docker
+## Docker
+
+## Machine Learning
 
 <br>
 
