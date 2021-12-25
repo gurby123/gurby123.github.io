@@ -28,7 +28,7 @@ Want to know more about me?
 </a>
 
 # CICD
-<br>
+
 # Docker
 
 <br>
