@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-I’m Gurbachan, a senior full-stack data analyst, creative coder and designer who specializes in front-end development and docker containers for backend development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Gurbachan, a senior full-stack data analyst, creative coder and designer who specializes in front-end development and docker containers for backend development. I make it my mission to translate real world use cases and user-focused designs into dynamic websites or applications that run at blazing speeds.
 
 Want to know more about me?
 
@@ -21,7 +21,7 @@ Want to know more about me?
 ## Fintech
 
 ## Website Theme - Frontend
-<a href="https://github.com/gurby123/AppBootStrap">
+<a href="https://github.com/gurby123/AppBootStrap"> This is my project on strategy. I am currently wrting a book on the art and science of strategy
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=AppBootStrap&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
