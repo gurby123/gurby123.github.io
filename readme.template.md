@@ -22,8 +22,8 @@ Want to know more about me?
 
 ## Website Theme - Frontend
 <a href="https://github.com/gurby123/AppBootStrap"> 
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=AppBootStrap&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  This is my project on strategy. I am currently wrting a book on the art and science of strategy
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=AppBootStrap&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" " This is my project on strategy. I am currently wrting a book on the art and science of strategy" />
+ 
 </a>
 
 <a href="https://github.com/gurby123/socialbank">
