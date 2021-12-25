@@ -16,6 +16,7 @@ Want to know more about me?
 ## Data Science
 <a href="https://data2int.com">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=data2int.com&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+
 </a>
 
 ## Fintech
@@ -28,6 +29,7 @@ Want to know more about me?
 
 <a href="https://github.com/gurby123/socialbank">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gurby123&repo=socialbank&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+
 </a>
 
 ## APIs - Backend
